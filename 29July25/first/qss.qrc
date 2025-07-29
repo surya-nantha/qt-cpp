@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Obit/License.txt</file>
+        <file>Obit/Obit.png</file>
+        <file>Obit/Obit.qss</file>
+    </qresource>
+</RCC>
